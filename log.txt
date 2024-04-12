@@ -1,0 +1,288 @@
+     LEVELS
+================
+  k  b  x  k 
+  k  k  k  x 
+  w  g  x  m 
+  k  k  x  k 
+================
+  x  k  k  k 
+  m  c  k  k 
+  m  g  w  c 
+  x  b  k  k 
+================
+  k  k  g  k 
+  x  w  k  k 
+  k  k  k  k 
+  b  x  k  k 
+================
+  x  k  x  g 
+  b  k  k  c 
+  k  k  k  g 
+  k  g  k  x 
+================
+
+
+     LEVEL 1
+__________________
+
+  k  b  x  k 
+  k  k  k  H 
+  w  g  x  m 
+  k  k  x  k 
+Mario is starting at (1,3).
+__________________
+
+  k  b  x  k 
+  k  k  k  H 
+  w  g  x  m 
+  k  k  x  k 
+Mario tried to move left and was hurt by a koopa and lost a life.
+Level: 1. Mario is now at position: (1,3)
+Mario has 0 coins, 2 lives, and is at power level 0
+
+  k  b  x  k 
+  k  k  k  x 
+  w  g  x  H 
+  k  k  x  k 
+Mario moved down and ate a mushroom.
+Level: 1. Mario is now at position: (2,3)
+Mario has 0 coins, 2 lives, and is at power level 1
+
+  k  b  x  k 
+  k  k  k  x 
+  w  g  H  x 
+  k  k  x  k 
+Mario moved left.
+Level: 1. Mario is now at position: (2,2)
+Mario has 0 coins, 2 lives, and is at power level 1
+
+  k  b  x  k 
+  k  k  H  x 
+  w  g  x  x 
+  k  k  x  k 
+Mario shelled a koopa and moved up.
+Level: 1. Mario is now at position: (1,2)
+Mario has 0 coins, 2 lives, and is at power level 1
+
+  k  b  x  k 
+  k  H  x  x 
+  w  g  x  x 
+  k  k  x  k 
+Mario shelled a koopa and moved left.
+Level: 1. Mario is now at position: (1,1)
+Mario has 0 coins, 2 lives, and is at power level 1
+
+  k  H  x  k 
+  k  x  x  x 
+  w  g  x  x 
+  k  k  x  k 
+Mario has moved up defeating Bowser warping to the next level.
+Level: 1. Mario is now at position: (0,1)
+Mario has 0 coins, 2 lives, and is at power level 1
+
+~~~~~~~~~~~~~~~~~~
+
+     LEVEL 2
+__________________
+
+  x  k  k  k 
+  m  c  k  k 
+  m  g  w  c 
+  H  b  k  k 
+Mario is starting at (3,0).
+__________________
+
+  x  k  k  k 
+  m  c  k  k 
+  m  g  w  c 
+  x  b  k  H 
+Mario shelled a koopa and moved left.
+Level: 2. Mario is now at position: (3,3)
+Mario has 0 coins, 2 lives, and is at power level 1
+
+  x  k  k  k 
+  m  c  k  k 
+  m  g  w  c 
+  x  b  k  H 
+Mario tried to move down and was hurt by a koopa and lost a life.
+Level: 2. Mario is now at position: (3,3)
+Mario has 0 coins, 1 lives, and is at power level 0
+
+  x  k  k  H 
+  m  c  k  k 
+  m  g  w  c 
+  x  b  k  x 
+Mario shelled a koopa and moved down.
+Level: 2. Mario is now at position: (0,3)
+Mario has 0 coins, 1 lives, and is at power level 0
+
+  x  k  k  x 
+  m  c  k  H 
+  m  g  w  c 
+  x  b  k  x 
+Mario shelled a koopa and moved down.
+Level: 2. Mario is now at position: (1,3)
+Mario has 0 coins, 1 lives, and is at power level 0
+
+  x  k  k  x 
+  H  c  k  x 
+  m  g  w  c 
+  x  b  k  x 
+Mario moved right and ate a mushroom.
+Level: 2. Mario is now at position: (1,0)
+Mario has 0 coins, 1 lives, and is at power level 1
+
+  x  k  k  x 
+  x  c  k  x 
+  H  g  w  c 
+  x  b  k  x 
+Mario moved down and ate a mushroom.
+Level: 2. Mario is now at position: (2,0)
+Mario has 0 coins, 1 lives, and is at power level 2
+
+  x  k  k  x 
+  x  c  k  x 
+  x  g  w  c 
+  H  b  k  x 
+Mario moved down.
+Level: 2. Mario is now at position: (3,0)
+Mario has 0 coins, 1 lives, and is at power level 2
+
+  x  k  k  x 
+  x  c  k  x 
+  x  g  w  c 
+  x  H  k  x 
+Mario has moved right defeating Bowser warping to the next level.
+Level: 2. Mario is now at position: (3,1)
+Mario has 0 coins, 1 lives, and is at power level 2
+
+~~~~~~~~~~~~~~~~~~
+
+     LEVEL 3
+__________________
+
+  k  k  g  k 
+  H  w  k  k 
+  k  k  k  k 
+  b  x  k  k 
+Mario is starting at (1,0).
+__________________
+
+  k  k  g  k 
+  x  w  k  k 
+  H  k  k  k 
+  b  x  k  k 
+Mario shelled a koopa and moved down.
+Level: 3. Mario is now at position: (2,0)
+Mario has 0 coins, 1 lives, and is at power level 2
+
+  k  k  g  k 
+  x  w  k  k 
+  H  k  k  k 
+  b  x  k  k 
+Mario tried to move down was bested by Bowser and lost a life.
+Level: 3. Mario is now at position: (2,0)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  k  k  g  k 
+  H  w  k  k 
+  x  k  k  k 
+  b  x  k  k 
+Mario moved up.
+Level: 3. Mario is now at position: (1,0)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  k  k  g  k 
+  x  H  k  k 
+  x  k  k  k 
+  b  x  k  k 
+Mario has moved right warping to the next level.
+Level: 3. Mario is now at position: (1,1)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+~~~~~~~~~~~~~~~~~~
+
+     LEVEL 4
+__________________
+
+  H  k  x  g 
+  b  k  k  c 
+  k  k  k  g 
+  k  g  k  x 
+Mario is starting at (0,0).
+__________________
+
+  x  k  x  H 
+  b  k  k  c 
+  k  k  k  g 
+  k  g  k  x 
+Mario stomped a goomba and moved left.
+Level: 4. Mario is now at position: (0,3)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  H  x 
+  b  k  k  c 
+  k  k  k  g 
+  k  g  k  x 
+Mario moved left.
+Level: 4. Mario is now at position: (0,2)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  x  x 
+  b  k  H  c 
+  k  k  k  g 
+  k  g  k  x 
+Mario shelled a koopa and moved down.
+Level: 4. Mario is now at position: (1,2)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  x  x 
+  b  k  x  c 
+  k  k  H  g 
+  k  g  k  x 
+Mario shelled a koopa and moved down.
+Level: 4. Mario is now at position: (2,2)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  x  x 
+  b  k  x  c 
+  k  H  x  g 
+  k  g  k  x 
+Mario shelled a koopa and moved left.
+Level: 4. Mario is now at position: (2,1)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  x  x 
+  b  H  x  c 
+  k  x  x  g 
+  k  g  k  x 
+Mario shelled a koopa and moved up.
+Level: 4. Mario is now at position: (1,1)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  x  x 
+  b  x  x  c 
+  k  H  x  g 
+  k  g  k  x 
+Mario moved down.
+Level: 4. Mario is now at position: (2,1)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  x  x 
+  b  x  x  c 
+  k  x  x  g 
+  k  H  k  x 
+Mario stomped a goomba and moved down.
+Level: 4. Mario is now at position: (3,1)
+Mario has 0 coins, 0 lives, and is at power level 0
+
+  x  k  x  x 
+  b  x  x  c 
+  k  x  x  g 
+  k  H  k  x 
+Mario tried to move right and was hurt by a koopa and lost a life.
+Level: 4. Mario is now at position: (3,1)
+Mario has run out of lives
+Mario had moved 27 times before he was defeated.
+       GAME OVER
+
