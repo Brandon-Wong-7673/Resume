@@ -1,0 +1,7 @@
+-----Students-----
+Student database is empty
+-----Faculty-----
+   a: 1
+Level: a
+Department: a
+Advisees: None
