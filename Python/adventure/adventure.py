@@ -438,8 +438,8 @@ elif (ending == 2):
 elif (ending == 3):
     print("You did it. You made it through all the traps, gates, and disappointments. You open ")
     print("the door to mountain of riches. You are sure that this is enough money to last 2, no maybe")
-    print("4 whole life times. Which would make you one of the ritches people in the kingdom before")
-    print("you lost half of it due to taxes. You are still very ritch but not as ritch as you first")
+    print("4 whole life times. Which would make you one of the riches people in the kingdom before")
+    print("you lost half of it due to taxes. You are still very rich but not as rich as you first")
     print("thought. You were still able to live a good life off of the treasure, but somthing has been")
     print("bugging you about the dungeon for decades. You haven't been able to put your finger on it")
     print("but you are sure there is somthing more it there, this was the last thought you had before")
